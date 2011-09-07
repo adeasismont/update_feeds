@@ -1,0 +1,9 @@
+Simple utility to scan through any number of RSS feeds and post a growl notification
+when there are any new posts to read.
+
+Preferably scheduled for automatic updating.
+
+License: None/public domain
+
+© Anton Kiland 2011
+anton@kiland.se

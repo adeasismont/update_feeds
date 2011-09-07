@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    htmlentities (4.3.0)
+    nokogiri (1.5.0)
+    ruby-growl (3.0)
+    sanitize (2.0.3)
+      nokogiri (>= 1.4.4, < 1.6)
+    simple-rss (1.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  htmlentities
+  ruby-growl
+  sanitize
+  simple-rss
